@@ -4,6 +4,10 @@ DRE: 116150432
 ---------TAREFA 1--------------
 */
 
+/*
+compilação: g++ -o Final Final.cpp -lglut -lGLU -lGL
+*/
+
 #include<stdlib.h>
 #include<stdio.h>
 #include<GL/gl.h>
