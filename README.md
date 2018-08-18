@@ -7,14 +7,14 @@
  * mesa-utils.
  * g++
    
-   comando para instalar o OpenGL:
-   $ sudo apt-get update
+   comando para instalar o OpenGL:<br>
+   $ sudo apt-get update<br>
    $ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
    
-   comando para instalar o Mesa-utils:
+   comando para instalar o Mesa-utils:<br>
    $ sudo apt-get install mesa-utils
  
-   comando para instalar o g++:
+   comando para instalar o g++:<br>
    $ sudo apt-get install g++
     
 ### - Ambiente Windows:
