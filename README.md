@@ -17,6 +17,8 @@
    comando para instalar o g++:<br>
    $ sudo apt-get install g++
     
+fonte: http://www.codebind.com/linux-tutorials/install-opengl-ubuntu-linux/
+    
 ### - Ambiente Windows:
    * Bibliotecas para o OpenGL.
    * adequar as bibliotecas no include.
