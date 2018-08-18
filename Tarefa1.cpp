@@ -5,7 +5,7 @@ DRE: 116150432
 */
 
 /*
-compilação: g++ -o Final Final.cpp -lglut -lGLU -lGL
+compilação: g++ -o Tarefa1 Tarefa1.cpp -lglut -lGLU -lGL
 */
 
 #include<stdlib.h>
