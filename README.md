@@ -3,7 +3,7 @@
 ## Requisítos necessários:
 
 ### - Ambiente linux:
- * Bibliotecas para OpenGL.
+ * Bibliotecas para o OpenGL.
  * mesa-utils.
  * g++
    
@@ -18,7 +18,7 @@
    $ sudo apt-get install g++
     
 ### - Ambiente Windows:
-   * Bibliotecas para OpenGL.
+   * Bibliotecas para o OpenGL.
    * adequar as bibliotecas no include.
    
 
