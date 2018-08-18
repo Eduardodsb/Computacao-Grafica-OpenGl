@@ -1,5 +1,27 @@
 # Computação Gráfica - OpenGL
 
+## Requisítos necessários:
+
+### - Ambiente linux:
+ * Bibliotecas para OpenGL.
+ * mesa-utils.
+ * g++
+   
+   comando para instalar o OpenGL:
+   $ sudo apt-get update
+   $ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
+   
+   comando para instalar o Mesa-utils:
+   $ sudo apt-get install mesa-utils
+ 
+   comando para instalar o g++:
+   $ sudo apt-get install g++
+    
+### - Ambiente Windows:
+   * Bibliotecas para OpenGL.
+   * adequar as bibliotecas no include.
+   
+
 ## - Tarefa 1 : Suavização de Linhas - Smoothing Lines
 
 - OpenGL
