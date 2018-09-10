@@ -43,3 +43,14 @@ O objetivo dessa tarefa era plotar linhas conectadas por pontos escolhidos pelo 
 O objetivo dessa tarefa era criar um polígono e em seguida rastrear a localização de um ponto, escolhido pelo usuário, em relação ao polígono. 
 
 ![inkedgif](https://user-images.githubusercontent.com/33110840/44302363-836a2f80-a2fd-11e8-8978-3e6ea66cb765.gif)
+
+
+## - Tarefa 3 : Fecho Convexo - Convex Hull
+- OpenGL
+- Fecho Convexo
+- Gift_Wrapping
+- Envoltória convexa
+
+O objetivo dessa tarefa era criar o fecho convexo de uma nuvem de pontos.
+
+![inkedgif](https://user-images.githubusercontent.com/33110840/45311471-925c9000-b4ff-11e8-8f4b-09fffc6eb4e2.gif)
