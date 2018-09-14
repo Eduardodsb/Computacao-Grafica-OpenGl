@@ -48,8 +48,10 @@ O objetivo dessa tarefa era criar um polígono e em seguida rastrear a localiza�
 ## - Tarefa 3 : Fecho Convexo - Convex Hull
 - OpenGL
 - Fecho Convexo
-- Gift_Wrapping
+- Gift Wrapping
 - Envoltória convexa
+- Algoritmo de Jarvis
+- jarvis algorithm
 
 O objetivo dessa tarefa era criar o fecho convexo de uma nuvem de pontos.
 
