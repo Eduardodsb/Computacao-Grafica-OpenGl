@@ -5,7 +5,7 @@ DRE: 116150432
 */
 
 /*
-compilação: g++ -o Tarefa2 Tarefa2.cpp -lglut -lGLU -lGL
+compilação: g++ -o Tarefa3 Tarefa3.cpp -lglut -lGLU -lGL
 */
 
 /*Bibliotecas Utilizadas*/
