@@ -57,7 +57,7 @@ int main(int argc, char **argv){
     /*glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA);*/
     /*glutInitWindowPosition(200,200); *//*Posição da janela na tela*/
     glutInitWindowSize (1280, 720); /*Tamanho da Janela*/
-    glutCreateWindow("Tarefa 2 - Eduardo da Silva Barbosa"); /*Nome da Janela*/
+    glutCreateWindow("Tarefa 3 - Eduardo da Silva Barbosa"); /*Nome da Janela*/
     glutKeyboardFunc(keyboard_cb);/*Função que será chamada quando ocorrer um evento no teclado*/
     glutMouseFunc(mouse);/*Função que será chamada quando ocorrer um evento no mouse*/
     glutDisplayFunc(display); /*Função que será chamada quando houver a necessidade de atualizar a janela*/
@@ -174,7 +174,7 @@ void fechoConvexo(){ /*Encontra o Fecho Convexo de uma nuvem de pontos*/
   int aux = 0;
   contp = 1;
   Coordenadas pontoTemp, semireta, vetor1;
-  pontosP = (Coordenadas *) malloc (sizeof(Coordenadas)*cont); /*Guardará os pontos pertencente ao fecho convexo*/
+  pontosP = (Coordenadas *) malloc (sizeof(Coordenadas)*(cont+1)); /*Guardará os pontos pertencente ao fecho convexo*/
   if(!pontosP){ /*Verifica se a memória foi alocada para 'pontosP'.*/
           printf("Erro: Nao foi possível alocar memória.\n");
           exit(1);
@@ -210,7 +210,7 @@ void fechoConvexo(){ /*Encontra o Fecho Convexo de uma nuvem de pontos*/
     vetor1 = acha_vetor(semireta,pontoTemp);/*Define o vetor da nova SemiReta*/
     contp++;
     aux = 0;
-  }while((!compara_pontos(pontosP[contp-1],pontosP[0])) && (contp<cont) );/*Deve para quando chegar no ponto mais extremo*/
+  }while((!compara_pontos(pontosP[contp-1],pontosP[0])));/*Deve para quando chegar no ponto mais extremo*/
 
 }
 
