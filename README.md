@@ -56,3 +56,15 @@ O objetivo dessa tarefa era criar um polígono e em seguida rastrear a localiza�
 O objetivo dessa tarefa era criar o fecho convexo de uma nuvem de pontos.
 
 ![inkedgif](https://user-images.githubusercontent.com/33110840/45311471-925c9000-b4ff-11e8-8f4b-09fffc6eb4e2.gif)
+
+
+## - Tarefa 4 : Triangulação de Delaunay - Delaunay triangulation
+- OpenGL
+- Triangulação de Delaunay
+- Algoritmo de Delaunay
+- Delaunay algorithm
+
+O objetivo dessa tarefa era gerar a triangulação de Delaunay a partir do fecho convexo gerado de uma nuvem de pontos.
+
+![gif](https://user-images.githubusercontent.com/33110840/47172299-73f96980-d2e1-11e8-9860-3e5d24a1dbfd.gif)
+
