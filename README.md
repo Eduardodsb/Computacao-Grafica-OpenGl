@@ -68,3 +68,15 @@ O objetivo dessa tarefa era gerar a triangulação de Delaunay a partir do fecho
 
 ![gif](https://user-images.githubusercontent.com/33110840/47172299-73f96980-d2e1-11e8-9860-3e5d24a1dbfd.gif)
 
+## - Tarefa 5 : Curva de Bézier - Bézier curve
+- OpenGL
+- Bézier
+
+O objetivo dessa tarefa era gerar a curva de bézier a partir de uma poligonal.
+
+![gif1](https://user-images.githubusercontent.com/33110840/48513765-cd52ab00-e843-11e8-8877-dbafbafdeee7.gif)
+
+![gif2](https://user-images.githubusercontent.com/33110840/48513764-cd52ab00-e843-11e8-9103-c9540bd69334.gif)
+
+![gif3](https://user-images.githubusercontent.com/33110840/48514075-9204ac00-e844-11e8-884c-51a67426983d.gif)
+
